@@ -1,7 +1,2 @@
-LinkedIn @https://www.linkedin.com/in/george-koufie/
-
-<!---
-gkoufie224/gkoufie224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+I am so excited to join this community of brilliant individuals unique in their ways and fields. I am a seeker of knowledge, a practical indivual who loves to learn and share ideas. I am an Information Systems and Network Management student of James Sprunt Community College, North Carolina. I have a passion in learning all aspect or a little of everything in Information Technology. My long term goal is to become an efficient and effective Data Analyst and that is why I have taught myself Tableau, PowerBi for my daily data visualization and also, experienced in SQL, Excel, HTML, CSS, Alteryx, SAS, PXE Booting, Active Directory and a lot more just to mention a few.
+I want to learn more so let us share ideas and make the world a better place. Thank you
