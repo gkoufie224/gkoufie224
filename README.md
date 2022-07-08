@@ -1,1 +1,1 @@
-At the moment I am reading and practicing Power Query from the Collect, Transfer and Combine using Power Query in Excel. The hands on experiences has been uploaed on here. Check it out and give me your absolute feedback. Learning is better than Silver and Gold.
+I am on DQL Server now after the Excel Power Query, I am on SQL Server. 
